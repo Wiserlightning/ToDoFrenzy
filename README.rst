@@ -1,10 +1,10 @@
 .. image:: https://media.giphy.com/media/vQ2YjH4KCDRSM/giphy-downsized.gif
 
 
-Django Coleman
+ToDoFrenzy (DJANGO)
 ==============
 
-Django Coleman: A very simple Task Management web app written
+ToDoFrenzy: A very simple Task Management web app written
 with **Django Admin**.
 
 
